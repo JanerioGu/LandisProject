@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjetoLandisGyr.WindowsForms/1.0.0": {
+        "dependencies": {
+          "ProjetoLandisGyr": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoLandisGyr.WindowsForms.dll": {}
+        }
+      },
+      "ProjetoLandisGyr/1.0.0": {
+        "runtime": {
+          "ProjetoLandisGyr.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoLandisGyr.WindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoLandisGyr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

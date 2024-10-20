@@ -10,18 +10,23 @@ Este repositório contém três projetos relacionados ao gerenciamento de endpoi
 
 ## Como executar os projetos
 
--1ª Clonar o para a pasta selecionada.
-![image](https://github.com/user-attachments/assets/233c4eb3-7bc3-4bfd-9515-0f986cc36a16)
+1ª Clonar o para a pasta selecionada.
 
-2ª Selecione o projeto que deseja executar primeiro **LEMBRANDO** os testes só irão funcionar no **ProjetoLandisGyr**, como segue na proximas imagens.
-![image](https://github.com/user-attachments/assets/4064a594-d2c9-4aa2-9ccd-d2e2bc150205)
-![image](https://github.com/user-attachments/assets/b1ca2960-540d-41d3-be63-8a21a6064d5a)
+
+![image](https://github.com/user-attachments/assets/18a05ce4-4b7d-48d9-b21c-8ba7c4cc299c)
+
+2ª Selecione o projeto que deseja executar primeiro **LEMBRANDO** os testes unitarios só irão funcionar no **ProjetoLandisGyr**, como segue na proximas imagens.
+
+
+![image](https://github.com/user-attachments/assets/ca58fd7a-7262-4317-93f1-13175d809c06)
+
+![image](https://github.com/user-attachments/assets/02d9f169-0d32-4f64-9d5b-4086fd31e4a2)
 
 3ª Projeto **ADICIONAL**. Fiz um Windows Forms como projeto adicional. Segue qual é pra execução:
-![image](https://github.com/user-attachments/assets/c1ca22f3-c645-4d9b-9374-5fb023a2158f)
 
-4ª Só para confirmar, segue a ultima imagem.
-![image](https://github.com/user-attachments/assets/39e3277c-f933-4d8a-8174-0ed805bb07cb)
+![image](https://github.com/user-attachments/assets/b4b3fe24-03f1-45f2-8394-6dea3f7fbe20)
+
+
 ### Pré-requisitos
 - **.NET SDK 8.0** ou superior.
 - Visual Studio 2022 ou mais recente.
@@ -30,4 +35,10 @@ Este repositório contém três projetos relacionados ao gerenciamento de endpoi
 ### Clonar o Repositório
 
 git clone [Clique aqui para obter o link do projeto](https://github.com/JanerioGu/LandisProject.git)
+
+
+### Meus contatos
+
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janerio32@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janerio-gustavo-717980196) 
 

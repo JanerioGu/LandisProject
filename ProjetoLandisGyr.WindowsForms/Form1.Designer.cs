@@ -79,7 +79,7 @@
             btnAdd.Location = new System.Drawing.Point(20, 260);
             btnAdd.Size = new System.Drawing.Size(75, 30);
             btnAdd.Text = "Add";
-            btnAdd.BackColor = System.Drawing.Color.FromArgb(0, 153, 0);  // Verde Landis+Gyr
+            btnAdd.BackColor = System.Drawing.Color.FromArgb(0, 153, 0);
             btnAdd.ForeColor = System.Drawing.Color.White;
             btnAdd.Click += btnAdd_Click;
 
@@ -87,7 +87,7 @@
             btnUpdate.Location = new System.Drawing.Point(100, 260);
             btnUpdate.Size = new System.Drawing.Size(75, 30);
             btnUpdate.Text = "Update";
-            btnUpdate.BackColor = System.Drawing.Color.FromArgb(102, 204, 0);  // Verde claro
+            btnUpdate.BackColor = System.Drawing.Color.FromArgb(102, 204, 0);
             btnUpdate.ForeColor = System.Drawing.Color.White;
             btnUpdate.Click += btnUpdate_Click;
 

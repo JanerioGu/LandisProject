@@ -1,25 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\LandisProjectFinal\\ProjetoLandisGyr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0670FD3F-2E8A-4CA6-9575-D73EF7C69B61}|ProjetoLandisGyr.csproj|c:\\users\\user\\desktop\\teste\\projetolandisgyr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0670FD3F-2E8A-4CA6-9575-D73EF7C69B61}|ProjetoLandisGyr.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0670FD3F-2E8A-4CA6-9575-D73EF7C69B61}|ProjetoLandisGyr.csproj|c:\\users\\user\\desktop\\teste\\projetolandisgyr\\repositories\\inmemoryendpointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0670FD3F-2E8A-4CA6-9575-D73EF7C69B61}|ProjetoLandisGyr.csproj|solutionrelative:repositories\\inmemoryendpointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE2C005A-93BE-4D17-8A0A-C24FCDB3BE0E}|..\\ProjetoLandisGyr.Tests\\ProjetoLandisGyr.Tests.csproj|c:\\users\\user\\desktop\\teste\\projetolandisgyr.tests\\inmemoryendpointrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0670FD3F-2E8A-4CA6-9575-D73EF7C69B61}|ProjetoLandisGyr.csproj|c:\\users\\user\\desktop\\teste\\projetolandisgyr\\repositories\\iendpointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0670FD3F-2E8A-4CA6-9575-D73EF7C69B61}|ProjetoLandisGyr.csproj|solutionrelative:repositories\\iendpointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0670FD3F-2E8A-4CA6-9575-D73EF7C69B61}|ProjetoLandisGyr.csproj|c:\\users\\user\\desktop\\teste\\projetolandisgyr\\models\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0670FD3F-2E8A-4CA6-9575-D73EF7C69B61}|ProjetoLandisGyr.csproj|solutionrelative:models\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA2382DB-2FC3-4D99-9B5A-500E6F206ADF}|..\\ProjetoLandisGyr.WindowsForms\\ProjetoLandisGyr.WindowsForms.csproj|c:\\users\\user\\desktop\\landisprojectfinal\\projetolandisgyr.windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,75 +21,19 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LandisProjectFinal\\ProjetoLandisGyr.WindowsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\ProjetoLandisGyr.WindowsForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LandisProjectFinal\\ProjetoLandisGyr.WindowsForms\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\ProjetoLandisGyr.WindowsForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwBAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T00:58:22.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InMemoryEndpointRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\Repositories\\InMemoryEndpointRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\InMemoryEndpointRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\Repositories\\InMemoryEndpointRepository.cs",
-              "RelativeToolTip": "Repositories\\InMemoryEndpointRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T00:58:10.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEndpointRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\Repositories\\IEndpointRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IEndpointRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\Repositories\\IEndpointRepository.cs",
-              "RelativeToolTip": "Repositories\\IEndpointRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T00:57:56.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InMemoryEndpointRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr.Tests\\InMemoryEndpointRepositoryTests.cs",
-              "RelativeDocumentMoniker": "..\\ProjetoLandisGyr.Tests\\InMemoryEndpointRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr.Tests\\InMemoryEndpointRepositoryTests.cs",
-              "RelativeToolTip": "..\\ProjetoLandisGyr.Tests\\InMemoryEndpointRepositoryTests.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAkwNEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T00:23:52.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Endpoint.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\Models\\Endpoint.cs",
-              "RelativeDocumentMoniker": "Models\\Endpoint.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Teste\\ProjetoLandisGyr\\Models\\Endpoint.cs",
-              "RelativeToolTip": "Models\\Endpoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T00:57:31.25Z",
+              "WhenOpened": "2024-10-20T01:39:16.323Z",
               "EditorCaption": ""
             }
           ]

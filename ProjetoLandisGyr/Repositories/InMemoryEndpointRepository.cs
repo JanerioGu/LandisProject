@@ -34,7 +34,6 @@ namespace ProjetoLandisGyr.Repositories
                 throw new ArgumentOutOfRangeException(nameof(newState),
                     "Allowed values are 0 (Disconnected), 1 (Connected), or 2 (Armed).");
 
-            // Usando LINQ para encontrar o endpoint e atualizar o estado
             var endpoint = _endpoints
                 .FirstOrDefault(e => e.EndpointSerialNumber.Equals(serialNumber, StringComparison.OrdinalIgnoreCase));
 
@@ -63,8 +62,8 @@ namespace ProjetoLandisGyr.Repositories
         public List<Endpoint> GetAllEndpoints()
         {
             return _endpoints
-                .OrderBy(e => e.EndpointSerialNumber)  // Ordena por Serial Number
-                .ToList();  // Retorna como lista
+                .OrderBy(e => e.EndpointSerialNumber)
+                .ToList();
         }
 
 
@@ -73,7 +72,6 @@ namespace ProjetoLandisGyr.Repositories
             if (string.IsNullOrWhiteSpace(serialNumber))
                 return null;
 
-            // Usando LINQ para buscar o primeiro endpoint correspondente
             return _endpoints
                 .FirstOrDefault(e => e.EndpointSerialNumber.Equals(serialNumber, StringComparison.OrdinalIgnoreCase));
         }

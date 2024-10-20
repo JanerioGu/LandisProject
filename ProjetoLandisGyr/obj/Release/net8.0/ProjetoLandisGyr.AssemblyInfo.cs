@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoLandisGyr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90164b7e9da0ec810ff5a2aa789230fae2e08851")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0626ec0373553d0ee788f961fe57441c7bc247af")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoLandisGyr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoLandisGyr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

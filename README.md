@@ -29,5 +29,5 @@ Este repositório contém três projetos relacionados ao gerenciamento de endpoi
 
 ### Clonar o Repositório
 
-git clone [Clique aqui para obter o link do projeto](https://github.com/JanerioGu/Landis-Project.git)
+git clone [Clique aqui para obter o link do projeto](https://github.com/JanerioGu/LandisProject.git)
 
